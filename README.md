@@ -50,7 +50,11 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=mongodb,express,aws,)](https://skillicons.dev)
+<p align="left">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,aws&perline=3" />
+  </a>
+</p>
 
 
 <br>
