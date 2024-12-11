@@ -23,7 +23,7 @@
 
 
 <!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+    
 -->
 
 <div>
