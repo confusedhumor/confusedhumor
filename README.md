@@ -63,9 +63,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     <a href="https://www.linkedin.com/in/confusedhumor/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
-    <a href="">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
-    </a>
+   
 </div>
 
 <!--
