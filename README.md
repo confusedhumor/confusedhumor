@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=99FF8A&width=435&lines=Hello%2C+It's+Varun!;Frontend+developer" alt="Typing SVG" /></a>
+<a href=""><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=99FF8A&width=435&lines=Hello%2C+It's+Varun!;Frontend+developer" alt="Typing SVG" /></a>
 <div align="center">
 <img src="assets/fan-1.gif" alt="Fan" align="center">
 </div>
@@ -43,7 +43,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ### Main skills
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,javascript,bootstrap,ts,react,vite,nextjs,linux&perline=5" />
   </a>
 </p>
