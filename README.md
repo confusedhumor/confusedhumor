@@ -27,7 +27,7 @@
 -->
 
 <div>
-    <img src=""/>
+ 
 </div>
 
 <!--
@@ -46,7 +46,8 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,javascript,bootstrap,ts,react,vite,nextjs,linux&perline=5" />
   </a>
-</p>)
+</p>
+
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=mongodb,express,aws,)](https://skillicons.dev)
@@ -60,9 +61,11 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/confusedhumor/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
+  <p align="left">
+  <a href="https://www.linkedin.com/in/confusedhumor/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
    
 </div>
 
