@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://github.com/confusedhumor/confusedhumor/blob/main/assets/confusedhumornothing.gif" alt="Fan" align="center">
-</div>
 
 
 
