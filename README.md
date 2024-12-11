@@ -27,7 +27,7 @@
 -->
 
 <div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+    <img src=""/>
 </div>
 
 <!--
