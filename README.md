@@ -1,3 +1,6 @@
+<div align="center">
+<img src="assets/fan-1.gif" alt="Fan" align="center">
+</div>
 
 
 
