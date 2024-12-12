@@ -47,7 +47,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
     <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,javascript,bootstrap,ts,react,vite,nextjs,linux&perline=5" />
   </a>
  <img src = 'https://github.com/confusedhumor/confusedhumor/blob/main/assets/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-<img src = 'https://github.com/confusedhumor/confusedhumor/blob/main/assets/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
 </p>
 
 
