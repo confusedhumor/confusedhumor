@@ -1,4 +1,4 @@
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=99FF8A&width=435&lines=Hello%2C+It's+Varun!;Frontend+developer" alt="Typing SVG" /></a>
+<a href=""><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=99FF8A&width=435&lines=Hello%2C+It's+Varun!;fullstack+developer" alt="Typing SVG" /></a>
 <div align="center">
 <img src="assets/fan-1.gif" alt="Fan" align="center">
 </div>
