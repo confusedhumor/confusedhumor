@@ -1,87 +1,45 @@
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=99FF8A&width=435&lines=Hello%2C+It's+Varun!;fullstack+developer" alt="Typing SVG" /></a>
-<div align="center">
-<img src="assets/fan-1.gif" alt="Fan" align="center">
-</div>
+# Varun
 
-
-
-<div align="center">
-<img src="assets/welcome-fire.gif" alt="Welcome" align="center">
-</div>
- 
-<!--
-    Hey there, I'm Varun!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-   // But may I please ask you to follow me in return? Just a click!
-   // You may also want to connect with me on LinkedIn  :))
--->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=heade" alt="header"/> 
-
-
-
-<!--
-    
--->
-
-<div>
- 
-</div>
-
-<!--
-     My mission, because I'm a superhero!
--->
-
-### My mission
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
-
-<!--
-     This is the list of my skills and tools I am studying!
--->
-
-### Main skills
 <p align="left">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,javascript,bootstrap,ts,react,vite,nextjs,linux&perline=5" />
+  <a href="https://github.com/confusedhumor">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=58A6FF&width=500&lines=Full-Stack+Developer;Building+Web%2C+Android+%26+Desktop+Apps;Python+%C2%B7+TypeScript+%C2%B7+Next.js" alt="Typing SVG" />
   </a>
 </p>
 
+Software developer building full-stack web platforms, cross-platform Android apps, and native desktop applications. Focused on clean architecture, performance, and intuitive user experiences.
 
-### Studying
+---
+
+### What I Build
+
+- **Web:** Full-stack scalable applications, REST APIs, responsive UIs
+- **Desktop:** Lightweight, native utilities and tools for Windows
+- **Android:** Clean, functional mobile apps
+
+---
+
+### Stack & Tools
+
 <p align="left">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,aws&perline=3" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,express,mongodb,sqlite&theme=dark" alt="Web & Backend" />
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,windows,cs,aws,linux,git,github,vscode,figma&theme=dark" alt="Mobile, Desktop & Tools" />
+</p>
 
-<br>
+---
 
-<!--
-     Fast links to my socials!
--->
+### Connect
 
-### Connect with me!
-<div>
-  <p align="left">
-  <a href="https://www.linkedin.com/in/confusedhumor/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/confusedhumor/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/confusedhumor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-   
-</div>
-
-<!--
-     Oh, hello there, recruiters!
--->
-
-### Employer?
-> [!IMPORTANT]  
-> <a href="" download>Download my resume</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-<!--
-     Thanks for being my guest <3
--->
